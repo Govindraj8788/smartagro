@@ -1,5 +1,8 @@
 import connectDB from "@/lib/db";
 import { CropRequest } from "@/models/CropRequest";
+import connectDB from "@/lib/db";
+import CropRequest from "@/models/CropRequest";import connectDB from "@/lib/db";
+import CropRequest from "@/models/CropRequest";
 
 export default async function ResultPage({ params }) {
   await connectDB();

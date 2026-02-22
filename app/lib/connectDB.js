@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import connectDB from "@/lib/db";
 
 const DATABASE_URL = process.env.DATABASE_URL;
 
