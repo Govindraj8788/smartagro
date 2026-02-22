@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { CropRequest } from "../../models/CropRequest";
-import connectDB from "../../lib/db";
+import connectDB from "../../lib/connectDB";
 
 export async function POST(req) {
   try {
