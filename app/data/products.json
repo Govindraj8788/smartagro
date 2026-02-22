@@ -1,0 +1,101 @@
+[
+  {
+    "id":"iot-soil-100",
+    "title":"SoilVue Pro — Soil Sensor",
+    "category":"IoT Sensors",
+    "sub":"Soil moisture, EC & temperature — long-life probes",
+    "price":"6499",
+    "price_numeric":6499,
+    "img":"https://source.unsplash.com/featured/?soil,sensor,agriculture",
+    "features":["Soil moisture (vol%)","Electrical Conductivity (EC)","Soil temperature","LoRaWAN / NB-IoT option"],
+    "uses":["Automated irrigation scheduling to save water","Salinity monitoring for fertigation planning","Historical soil condition logging for nutrient management"]
+  },
+  {
+    "id":"weather-station-x",
+    "title":"AgriWeather Station X",
+    "category":"IoT Sensors",
+    "sub":"Microclimate monitoring — temp, humidity, wind, rain",
+    "price":"18999",
+    "price_numeric":18999,
+    "img":"https://source.unsplash.com/featured/?weather,station,agriculture",
+    "features":["Air temp & humidity","Wind speed & direction","Rain gauge","Solar radiation / PAR"],
+    "uses":["Optimize spraying windows","Calculate evapotranspiration (ET0)","Frost alerts for orchards"]
+  },
+  {
+    "id":"edge-gateway-1",
+    "title":"EdgeHub Gateway",
+    "category":"Connectivity",
+    "sub":"Edge processing + LoRaWAN / MQTT bridge",
+    "price":"13499",
+    "price_numeric":13499,
+    "img":"https://source.unsplash.com/featured/?lorawan,gateway,iot",
+    "features":["Packet forwarding (LoRaWAN)","Local rules & edge ML","MQTT/HTTP uplink"],
+    "uses":["Aggregate sensor data on-farm","Run edge detection for alerts","Reduce cellular costs"]
+  },
+  {
+    "id":"drone-agrimax",
+    "title":"AgriMax Drone — Sprayer",
+    "category":"Autonomous Machines",
+    "sub":"Precision spraying, mapping & variable rate applications",
+    "price":"249999",
+    "price_numeric":249999,
+    "img":"https://source.unsplash.com/featured/?agriculture,drone,sprayer",
+    "features":["GPS-guided flight","RTK option","Foldable & swappable tanks"],
+    "uses":["Targeted pesticide application","NDVI mapping + prescription spraying","Rapid application in remote fields"]
+  },
+  {
+    "id":"autot-tractor-ev",
+    "title":"AutoTrak — Autonomous Tractor",
+    "category":"Autonomous Machines",
+    "sub":"Autonomous tillage, seeding & field tasks",
+    "price":"Contact for price",
+    "price_numeric":0,
+    "img":"https://source.unsplash.com/featured/?autonomous,tractor,farm",
+    "features":["Auto-steer & route planning","Implements integration","Fleet dashboard"],
+    "uses":["Reduce labor costs","Precision seed placement","Integrate with RTK corrections"]
+  },
+  {
+    "id":"greenhouse-controller",
+    "title":"GreenGrow Controller",
+    "category":"Control & Automation",
+    "sub":"Climate, irrigation & fertigation control for greenhouses",
+    "price":"22499",
+    "price_numeric":22499,
+    "img":"https://source.unsplash.com/featured/?greenhouse,controller,agriculture",
+    "features":["Temp & humidity control","Irrigation valves & dosing","Schedules & setpoints"],
+    "uses":["Maintain ideal microclimate","Automate misting & ventilation","Integrate fertigation"]
+  },
+  {
+    "id":"fertigation-kit",
+    "title":"SmartFert Kit",
+    "category":"Irrigation & Fertigation",
+    "sub":"Auto fertigation & dosing controller",
+    "price":"9999",
+    "price_numeric":9999,
+    "img":"https://source.unsplash.com/featured/?fertigation,drip,irrigation",
+    "features":["Proportional dosing","Support for multiple tanks","Mobile scheduling"],
+    "uses":["Automate micro-nutrient dosing","Reduce fertilizer runoff","Remote on/off"]
+  },
+  {
+    "id":"vision-pest",
+    "title":"CropVision — Pest & Disease Camera",
+    "category":"Analytics & Vision",
+    "sub":"Edge AI camera for pest/disease alerts",
+    "price":"39999",
+    "price_numeric":39999,
+    "img":"https://source.unsplash.com/featured/?camera,agriculture,vision",
+    "features":["Edge AI detection","Time-lapse + alerts","Cloud analytics"],
+    "uses":["Early pest/disease detection","Trigger spot spraying","Build datasets for prediction"]
+  },
+  {
+    "id":"soil-nutrient-kit",
+    "title":"FieldLab — Portable Soil Nutrient Kit",
+    "category":"Diagnostics",
+    "sub":"On-field tests for NPK, pH and EC",
+    "price":"4499",
+    "price_numeric":4499,
+    "img":"https://source.unsplash.com/featured/?soil,testing,lab",
+    "features":["NPK strips","pH test","Mobile app reporting"],
+    "uses":["Quick field nutrient checks","Split application planning","Support advisory decisions"]
+  }
+]
